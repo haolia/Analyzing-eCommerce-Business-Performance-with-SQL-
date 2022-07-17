@@ -1,2 +1,2 @@
-# Analyzing-eCommerce-Business-Performance-with-SQL-
+# Analyzing E-Commerce Business Performance with SQL
 Exploratory data analysis of eCommerce database using SQL
