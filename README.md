@@ -11,4 +11,4 @@ product, and payment type.
 
 
 Exploratory data analysis of eCommerce database using SQL
-![ERD_DataRelationship](https://user-images.githubusercontent.com/36781269/180700566-aa13c351-b683-4ba0-a565-10e5ee223f8e.png)
+
